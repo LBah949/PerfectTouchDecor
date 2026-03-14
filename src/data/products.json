@@ -1,0 +1,624 @@
+{
+  "products": [
+    {
+      "id": "prod001",
+      "name": "Executive Leather Office Chair",
+      "category": "Office Furniture",
+      "featured": true,
+      "images": [
+        "https://picsum.photos/seed/prod001/800/800"
+      ],
+      "description": "Premium ergonomic office chair designed for comfort and productivity."
+    },
+    {
+      "id": "prod002",
+      "name": "Minimalist Oak Desk",
+      "category": "Office Furniture",
+      "featured": true,
+      "images": [
+        "https://picsum.photos/seed/prod002/800/800"
+      ],
+      "description": "A clean, minimalist desk crafted from solid oak. Provides ample workspace."
+    },
+    {
+      "id": "prod003",
+      "name": "Modern Desk Lamp",
+      "category": "Office Décor",
+      "featured": true,
+      "images": [
+        "https://picsum.photos/seed/prod003/800/800"
+      ],
+      "description": "Adjustable LED desk lamp with touch controls."
+    },
+    {
+      "id": "prod004",
+      "name": "Abstract Wall Art Set",
+      "category": "Office Décor",
+      "featured": true,
+      "images": [
+        "https://picsum.photos/seed/prod004/800/800"
+      ],
+      "description": "Set of 3 abstract canvas prints to add a touch of sophistication."
+    },
+    {
+      "id": "prod005",
+      "name": "Premium High-Speed Router",
+      "category": "IT Equipment",
+      "featured": false,
+      "images": [
+        "https://picsum.photos/seed/prod005/800/800"
+      ],
+      "description": "Enterprise-grade Wi-Fi 6 router ensuring seamless connectivity."
+    },
+    {
+      "id": "prod006",
+      "name": "Dual Monitor Stand",
+      "category": "IT Equipment",
+      "featured": false,
+      "images": [
+        "https://picsum.photos/seed/prod006/800/800"
+      ],
+      "description": "Heavy-duty dual monitor arm mount. Fully adjustable."
+    },
+    {
+      "id": "prod007",
+      "name": "Split Air Conditioner 1.5 Ton",
+      "category": "Air Conditioners",
+      "featured": false,
+      "images": [
+        "https://picsum.photos/seed/prod007/800/800"
+      ],
+      "description": "Energy-efficient split AC unit with rapid cooling technology."
+    },
+    {
+      "id": "prod008",
+      "name": "Elegant Orchid Arrangement",
+      "category": "Florals",
+      "featured": false,
+      "images": [
+        "https://picsum.photos/seed/prod008/800/800"
+      ],
+      "description": "A stunning, lifelike artificial white orchid arrangement."
+    },
+    {
+      "id": "prod009",
+      "name": "Succulent Desk Garden",
+      "category": "Florals",
+      "featured": false,
+      "images": [
+        "https://picsum.photos/seed/prod009/800/800"
+      ],
+      "description": "A collection of high-quality faux succulents arranged in a modern planter."
+    },
+    {
+      "id": "prod010",
+      "name": "Premium Leather Notebook",
+      "category": "General Merchandise",
+      "featured": false,
+      "images": [
+        "https://picsum.photos/seed/prod010/800/800"
+      ],
+      "description": "Handcrafted genuine leather notebook with high-quality paper."
+    },
+    {
+      "id": "prod011",
+      "name": "Luxury Pen Set",
+      "category": "General Merchandise",
+      "featured": false,
+      "images": [
+        "https://picsum.photos/seed/prod011/800/800"
+      ],
+      "description": "A set of two premium executive pens in a beautiful presentation box."
+    },
+    {
+      "id": "prod012",
+      "name": "Ergonomic Footrest",
+      "category": "Office Furniture",
+      "featured": false,
+      "images": [
+        "https://picsum.photos/seed/prod012/800/800"
+      ],
+      "description": "Adjustable ergonomic footrest to improve posture and circulation."
+    },
+    {
+      "id": "prod013",
+      "name": "Premium Microphone",
+      "category": "IT Equipment",
+      "featured": false,
+      "images": [
+        "https://picsum.photos/seed/prod013/800/800"
+      ],
+      "description": "High-quality premium microphone designed to elevate your workspace. Features premium materials and exceptional durability."
+    },
+    {
+      "id": "prod014",
+      "name": "Luxury Window AC",
+      "category": "Air Conditioners",
+      "featured": false,
+      "images": [
+        "https://picsum.photos/seed/prod014/800/800"
+      ],
+      "description": "High-quality luxury window ac designed to elevate your workspace. Features premium materials and exceptional durability."
+    },
+    {
+      "id": "prod015",
+      "name": "Modern Monitor",
+      "category": "IT Equipment",
+      "featured": true,
+      "images": [
+        "https://picsum.photos/seed/prod015/800/800"
+      ],
+      "description": "High-quality modern monitor designed to elevate your workspace. Features premium materials and exceptional durability."
+    },
+    {
+      "id": "prod016",
+      "name": "Ergonomic Split AC",
+      "category": "Air Conditioners",
+      "featured": false,
+      "images": [
+        "https://picsum.photos/seed/prod016/800/800"
+      ],
+      "description": "High-quality ergonomic split ac designed to elevate your workspace. Features premium materials and exceptional durability."
+    },
+    {
+      "id": "prod017",
+      "name": "Ergonomic Pen Set",
+      "category": "General Merchandise",
+      "featured": false,
+      "images": [
+        "https://picsum.photos/seed/prod017/800/800"
+      ],
+      "description": "High-quality ergonomic pen set designed to elevate your workspace. Features premium materials and exceptional durability."
+    },
+    {
+      "id": "prod018",
+      "name": "Ergonomic Potted Plant",
+      "category": "Florals",
+      "featured": false,
+      "images": [
+        "https://picsum.photos/seed/prod018/800/800"
+      ],
+      "description": "High-quality ergonomic potted plant designed to elevate your workspace. Features premium materials and exceptional durability."
+    },
+    {
+      "id": "prod019",
+      "name": "Wireless Pen Set",
+      "category": "General Merchandise",
+      "featured": false,
+      "images": [
+        "https://picsum.photos/seed/prod019/800/800"
+      ],
+      "description": "High-quality wireless pen set designed to elevate your workspace. Features premium materials and exceptional durability."
+    },
+    {
+      "id": "prod020",
+      "name": "Premium Paper Shredder",
+      "category": "General Merchandise",
+      "featured": false,
+      "images": [
+        "https://picsum.photos/seed/prod020/800/800"
+      ],
+      "description": "High-quality premium paper shredder designed to elevate your workspace. Features premium materials and exceptional durability."
+    },
+    {
+      "id": "prod021",
+      "name": "Wireless Mirror",
+      "category": "Office Décor",
+      "featured": false,
+      "images": [
+        "https://picsum.photos/seed/prod021/800/800"
+      ],
+      "description": "High-quality wireless mirror designed to elevate your workspace. Features premium materials and exceptional durability."
+    },
+    {
+      "id": "prod022",
+      "name": "High-Performance Picture Frame",
+      "category": "Office Décor",
+      "featured": false,
+      "images": [
+        "https://picsum.photos/seed/prod022/800/800"
+      ],
+      "description": "High-quality high-performance picture frame designed to elevate your workspace. Features premium materials and exceptional durability."
+    },
+    {
+      "id": "prod023",
+      "name": "Luxury Split AC",
+      "category": "Air Conditioners",
+      "featured": false,
+      "images": [
+        "https://picsum.photos/seed/prod023/800/800"
+      ],
+      "description": "High-quality luxury split ac designed to elevate your workspace. Features premium materials and exceptional durability."
+    },
+    {
+      "id": "prod024",
+      "name": "Premium Palm",
+      "category": "Florals",
+      "featured": false,
+      "images": [
+        "https://picsum.photos/seed/prod024/800/800"
+      ],
+      "description": "High-quality premium palm designed to elevate your workspace. Features premium materials and exceptional durability."
+    },
+    {
+      "id": "prod025",
+      "name": "Classic Stapler",
+      "category": "General Merchandise",
+      "featured": false,
+      "images": [
+        "https://picsum.photos/seed/prod025/800/800"
+      ],
+      "description": "High-quality classic stapler designed to elevate your workspace. Features premium materials and exceptional durability."
+    },
+    {
+      "id": "prod026",
+      "name": "Wireless Portable AC",
+      "category": "Air Conditioners",
+      "featured": false,
+      "images": [
+        "https://picsum.photos/seed/prod026/800/800"
+      ],
+      "description": "High-quality wireless portable ac designed to elevate your workspace. Features premium materials and exceptional durability."
+    },
+    {
+      "id": "prod027",
+      "name": "Compact Filing Cabinet",
+      "category": "Office Furniture",
+      "featured": false,
+      "images": [
+        "https://picsum.photos/seed/prod027/800/800"
+      ],
+      "description": "High-quality compact filing cabinet designed to elevate your workspace. Features premium materials and exceptional durability."
+    },
+    {
+      "id": "prod028",
+      "name": "Ergonomic Sculpture",
+      "category": "Office Décor",
+      "featured": false,
+      "images": [
+        "https://picsum.photos/seed/prod028/800/800"
+      ],
+      "description": "High-quality ergonomic sculpture designed to elevate your workspace. Features premium materials and exceptional durability."
+    },
+    {
+      "id": "prod029",
+      "name": "Elegant Lighting Fixture",
+      "category": "Office Décor",
+      "featured": false,
+      "images": [
+        "https://picsum.photos/seed/prod029/800/800"
+      ],
+      "description": "High-quality elegant lighting fixture designed to elevate your workspace. Features premium materials and exceptional durability."
+    },
+    {
+      "id": "prod030",
+      "name": "Luxury Conference Table",
+      "category": "Office Furniture",
+      "featured": true,
+      "images": [
+        "https://picsum.photos/seed/prod030/800/800"
+      ],
+      "description": "High-quality luxury conference table designed to elevate your workspace. Features premium materials and exceptional durability."
+    },
+    {
+      "id": "prod031",
+      "name": "Minimalist Coffee Mug",
+      "category": "General Merchandise",
+      "featured": false,
+      "images": [
+        "https://picsum.photos/seed/prod031/800/800"
+      ],
+      "description": "High-quality minimalist coffee mug designed to elevate your workspace. Features premium materials and exceptional durability."
+    },
+    {
+      "id": "prod032",
+      "name": "Compact Window AC",
+      "category": "Air Conditioners",
+      "featured": true,
+      "images": [
+        "https://picsum.photos/seed/prod032/800/800"
+      ],
+      "description": "High-quality compact window ac designed to elevate your workspace. Features premium materials and exceptional durability."
+    },
+    {
+      "id": "prod033",
+      "name": "Heavy-Duty Standing Desk",
+      "category": "Office Furniture",
+      "featured": false,
+      "images": [
+        "https://picsum.photos/seed/prod033/800/800"
+      ],
+      "description": "High-quality heavy-duty standing desk designed to elevate your workspace. Features premium materials and exceptional durability."
+    },
+    {
+      "id": "prod034",
+      "name": "Ergonomic Planner",
+      "category": "General Merchandise",
+      "featured": false,
+      "images": [
+        "https://picsum.photos/seed/prod034/800/800"
+      ],
+      "description": "High-quality ergonomic planner designed to elevate your workspace. Features premium materials and exceptional durability."
+    },
+    {
+      "id": "prod035",
+      "name": "Professional Keyboard",
+      "category": "IT Equipment",
+      "featured": true,
+      "images": [
+        "https://picsum.photos/seed/prod035/800/800"
+      ],
+      "description": "High-quality professional keyboard designed to elevate your workspace. Features premium materials and exceptional durability."
+    },
+    {
+      "id": "prod036",
+      "name": "Heavy-Duty Notebook",
+      "category": "General Merchandise",
+      "featured": false,
+      "images": [
+        "https://picsum.photos/seed/prod036/800/800"
+      ],
+      "description": "High-quality heavy-duty notebook designed to elevate your workspace. Features premium materials and exceptional durability."
+    },
+    {
+      "id": "prod037",
+      "name": "Minimalist Trash Can",
+      "category": "General Merchandise",
+      "featured": false,
+      "images": [
+        "https://picsum.photos/seed/prod037/800/800"
+      ],
+      "description": "High-quality minimalist trash can designed to elevate your workspace. Features premium materials and exceptional durability."
+    },
+    {
+      "id": "prod038",
+      "name": "Ergonomic Filing Cabinet",
+      "category": "Office Furniture",
+      "featured": false,
+      "images": [
+        "https://picsum.photos/seed/prod038/800/800"
+      ],
+      "description": "High-quality ergonomic filing cabinet designed to elevate your workspace. Features premium materials and exceptional durability."
+    },
+    {
+      "id": "prod039",
+      "name": "Ergonomic Desk Pad",
+      "category": "General Merchandise",
+      "featured": false,
+      "images": [
+        "https://picsum.photos/seed/prod039/800/800"
+      ],
+      "description": "High-quality ergonomic desk pad designed to elevate your workspace. Features premium materials and exceptional durability."
+    },
+    {
+      "id": "prod040",
+      "name": "Ergonomic Headset",
+      "category": "IT Equipment",
+      "featured": false,
+      "images": [
+        "https://picsum.photos/seed/prod040/800/800"
+      ],
+      "description": "High-quality ergonomic headset designed to elevate your workspace. Features premium materials and exceptional durability."
+    },
+    {
+      "id": "prod041",
+      "name": "Minimalist Air Purifier",
+      "category": "Air Conditioners",
+      "featured": false,
+      "images": [
+        "https://picsum.photos/seed/prod041/800/800"
+      ],
+      "description": "High-quality minimalist air purifier designed to elevate your workspace. Features premium materials and exceptional durability."
+    },
+    {
+      "id": "prod042",
+      "name": "Smart Router",
+      "category": "IT Equipment",
+      "featured": false,
+      "images": [
+        "https://picsum.photos/seed/prod042/800/800"
+      ],
+      "description": "High-quality smart router designed to elevate your workspace. Features premium materials and exceptional durability."
+    },
+    {
+      "id": "prod043",
+      "name": "Ergonomic Filing Cabinet",
+      "category": "Office Furniture",
+      "featured": true,
+      "images": [
+        "https://picsum.photos/seed/prod043/800/800"
+      ],
+      "description": "High-quality ergonomic filing cabinet designed to elevate your workspace. Features premium materials and exceptional durability."
+    },
+    {
+      "id": "prod044",
+      "name": "Professional Artificial Tree",
+      "category": "Florals",
+      "featured": false,
+      "images": [
+        "https://picsum.photos/seed/prod044/800/800"
+      ],
+      "description": "High-quality professional artificial tree designed to elevate your workspace. Features premium materials and exceptional durability."
+    },
+    {
+      "id": "prod045",
+      "name": "Modern Server Rack",
+      "category": "IT Equipment",
+      "featured": false,
+      "images": [
+        "https://picsum.photos/seed/prod045/800/800"
+      ],
+      "description": "High-quality modern server rack designed to elevate your workspace. Features premium materials and exceptional durability."
+    },
+    {
+      "id": "prod046",
+      "name": "Wireless Tower Fan",
+      "category": "Air Conditioners",
+      "featured": false,
+      "images": [
+        "https://picsum.photos/seed/prod046/800/800"
+      ],
+      "description": "High-quality wireless tower fan designed to elevate your workspace. Features premium materials and exceptional durability."
+    },
+    {
+      "id": "prod047",
+      "name": "Smart Window AC",
+      "category": "Air Conditioners",
+      "featured": true,
+      "images": [
+        "https://picsum.photos/seed/prod047/800/800"
+      ],
+      "description": "High-quality smart window ac designed to elevate your workspace. Features premium materials and exceptional durability."
+    },
+    {
+      "id": "prod048",
+      "name": "Sleek Artificial Tree",
+      "category": "Florals",
+      "featured": false,
+      "images": [
+        "https://picsum.photos/seed/prod048/800/800"
+      ],
+      "description": "High-quality sleek artificial tree designed to elevate your workspace. Features premium materials and exceptional durability."
+    },
+    {
+      "id": "prod049",
+      "name": "Advanced Lighting Fixture",
+      "category": "Office Décor",
+      "featured": true,
+      "images": [
+        "https://picsum.photos/seed/prod049/800/800"
+      ],
+      "description": "High-quality advanced lighting fixture designed to elevate your workspace. Features premium materials and exceptional durability."
+    },
+    {
+      "id": "prod050",
+      "name": "Modern Sculpture",
+      "category": "Office Décor",
+      "featured": false,
+      "images": [
+        "https://picsum.photos/seed/prod050/800/800"
+      ],
+      "description": "High-quality modern sculpture designed to elevate your workspace. Features premium materials and exceptional durability."
+    },
+    {
+      "id": "prod051",
+      "name": "Heavy-Duty Sofa",
+      "category": "Office Furniture",
+      "featured": false,
+      "images": [
+        "https://picsum.photos/seed/prod051/800/800"
+      ],
+      "description": "High-quality heavy-duty sofa designed to elevate your workspace. Features premium materials and exceptional durability."
+    },
+    {
+      "id": "prod052",
+      "name": "High-Performance Ceiling Fan",
+      "category": "Air Conditioners",
+      "featured": true,
+      "images": [
+        "https://picsum.photos/seed/prod052/800/800"
+      ],
+      "description": "High-quality high-performance ceiling fan designed to elevate your workspace. Features premium materials and exceptional durability."
+    },
+    {
+      "id": "prod053",
+      "name": "Heavy-Duty Bookends",
+      "category": "Office Décor",
+      "featured": false,
+      "images": [
+        "https://picsum.photos/seed/prod053/800/800"
+      ],
+      "description": "High-quality heavy-duty bookends designed to elevate your workspace. Features premium materials and exceptional durability."
+    },
+    {
+      "id": "prod054",
+      "name": "Ergonomic Router",
+      "category": "IT Equipment",
+      "featured": false,
+      "images": [
+        "https://picsum.photos/seed/prod054/800/800"
+      ],
+      "description": "High-quality ergonomic router designed to elevate your workspace. Features premium materials and exceptional durability."
+    },
+    {
+      "id": "prod055",
+      "name": "Luxury Dehumidifier",
+      "category": "Air Conditioners",
+      "featured": false,
+      "images": [
+        "https://picsum.photos/seed/prod055/800/800"
+      ],
+      "description": "High-quality luxury dehumidifier designed to elevate your workspace. Features premium materials and exceptional durability."
+    },
+    {
+      "id": "prod056",
+      "name": "Heavy-Duty Server Rack",
+      "category": "IT Equipment",
+      "featured": true,
+      "images": [
+        "https://picsum.photos/seed/prod056/800/800"
+      ],
+      "description": "High-quality heavy-duty server rack designed to elevate your workspace. Features premium materials and exceptional durability."
+    },
+    {
+      "id": "prod057",
+      "name": "Wireless Clock",
+      "category": "Office Décor",
+      "featured": true,
+      "images": [
+        "https://picsum.photos/seed/prod057/800/800"
+      ],
+      "description": "High-quality wireless clock designed to elevate your workspace. Features premium materials and exceptional durability."
+    },
+    {
+      "id": "prod058",
+      "name": "Heavy-Duty Portable AC",
+      "category": "Air Conditioners",
+      "featured": false,
+      "images": [
+        "https://picsum.photos/seed/prod058/800/800"
+      ],
+      "description": "High-quality heavy-duty portable ac designed to elevate your workspace. Features premium materials and exceptional durability."
+    },
+    {
+      "id": "prod059",
+      "name": "High-Performance Window AC",
+      "category": "Air Conditioners",
+      "featured": false,
+      "images": [
+        "https://picsum.photos/seed/prod059/800/800"
+      ],
+      "description": "High-quality high-performance window ac designed to elevate your workspace. Features premium materials and exceptional durability."
+    },
+    {
+      "id": "prod060",
+      "name": "Advanced Orchid",
+      "category": "Florals",
+      "featured": false,
+      "images": [
+        "https://picsum.photos/seed/prod060/800/800"
+      ],
+      "description": "High-quality advanced orchid designed to elevate your workspace. Features premium materials and exceptional durability."
+    },
+    {
+      "id": "prod061",
+      "name": "Sleek Coffee Mug",
+      "category": "General Merchandise",
+      "featured": false,
+      "images": [
+        "https://picsum.photos/seed/prod061/800/800"
+      ],
+      "description": "High-quality sleek coffee mug designed to elevate your workspace. Features premium materials and exceptional durability."
+    },
+    {
+      "id": "prod062",
+      "name": "Sleek Rug",
+      "category": "Office Décor",
+      "featured": false,
+      "images": [
+        "https://picsum.photos/seed/prod062/800/800"
+      ],
+      "description": "High-quality sleek rug designed to elevate your workspace. Features premium materials and exceptional durability."
+    }
+  ]
+}
